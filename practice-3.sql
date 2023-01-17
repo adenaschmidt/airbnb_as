@@ -1,7 +1,9 @@
 -- What are all the neighborhoods?
 
 SELECT neighborhood
+
 FROM listings GROUP BY neighborhood
+
 ORDER BY neighborhood;
 
 -- +------------------------+

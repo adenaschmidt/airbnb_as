@@ -2,6 +2,7 @@
 
 SELECT COUNT(*)
 FROM listings
+
 WHERE neighborhood = "Lincoln Park"
 GROUP BY neighborhood;
 

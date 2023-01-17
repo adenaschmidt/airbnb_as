@@ -5,4 +5,5 @@
 -- +----------+
 
 
-SELECT COUNT(*) FROM reviews;
+SELECT COUNT(*) 
+FROM reviews;
